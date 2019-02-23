@@ -2,4 +2,4 @@
 Фильтрация проксей в выдаче по:
 - alive
 - proxy_type (0 - 'Transparent', 1 - 'Anonymous', 2 - 'Elite')
-- страна 
+- страна ('ALL','RU','US','DE')
